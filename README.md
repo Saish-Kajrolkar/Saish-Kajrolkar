@@ -2,8 +2,7 @@
     👀 I’m interested in signal processing, machine learning, deep learning, and computer vision. My passion lies in understanding and applying complex mathematical concepts to solve real-world problems.
     🌱 I’m currently mastering the mathematical foundations and practical implementation of machine learning algorithms. Following this, I aim to deepen my expertise in deep learning. My MTech research focuses on "Quality Assessment for Stereoscopic Multimedia," which combines elements of computer vision and multimedia processing.
     💞️ I’m looking to collaborate on innovative projects in the fields of signal processing, machine learning, deep learning, and computer vision. I'm particularly interested in research that pushes the boundaries of these technologies and their applications.
-    📫 How to reach me: Email - saishgate@gmail.com| LinkedIn - 
-    😄 Pronouns: He/Him
+    📫 How to reach me: Email - saishgate@gmail.com| LinkedIn - https://www.linkedin.com/in/saish-kajrolkar-b4259a205
     ⚡ Fun fact: Outside of academia and coding, I enjoy playing various sports, which keeps me active and brings a balanced approach to my rigorous academic schedule.
 
 Education and Expertise
